@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willianrosner&hide_progress=true)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrosner)](https://github.com/willianrosner/github-readme-stats)
 
 ### Hi there 👋
 
